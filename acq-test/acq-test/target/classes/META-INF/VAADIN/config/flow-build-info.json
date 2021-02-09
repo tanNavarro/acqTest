@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "C:\\Users\\Chan PC\\Downloads\\acq-test\\acq-test",
+  "generatedFolder": "C:\\Users\\Chan PC\\Downloads\\acq-test\\acq-test\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Chan PC\\Downloads\\acq-test\\acq-test\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
